@@ -1,0 +1,11 @@
+C:\Users\kamil\Desktop\Programowanie\Asp.net Core\Online Shop project asp.net core web api\Projekt\Shop.UI\Shop.Domain\bin\Debug\net8.0\Shop.Domain.deps.json
+C:\Users\kamil\Desktop\Programowanie\Asp.net Core\Online Shop project asp.net core web api\Projekt\Shop.UI\Shop.Domain\bin\Debug\net8.0\Shop.Domain.dll
+C:\Users\kamil\Desktop\Programowanie\Asp.net Core\Online Shop project asp.net core web api\Projekt\Shop.UI\Shop.Domain\bin\Debug\net8.0\Shop.Domain.pdb
+C:\Users\kamil\Desktop\Programowanie\Asp.net Core\Online Shop project asp.net core web api\Projekt\Shop.UI\Shop.Domain\obj\Debug\net8.0\Shop.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kamil\Desktop\Programowanie\Asp.net Core\Online Shop project asp.net core web api\Projekt\Shop.UI\Shop.Domain\obj\Debug\net8.0\Shop.Domain.AssemblyInfoInputs.cache
+C:\Users\kamil\Desktop\Programowanie\Asp.net Core\Online Shop project asp.net core web api\Projekt\Shop.UI\Shop.Domain\obj\Debug\net8.0\Shop.Domain.AssemblyInfo.cs
+C:\Users\kamil\Desktop\Programowanie\Asp.net Core\Online Shop project asp.net core web api\Projekt\Shop.UI\Shop.Domain\obj\Debug\net8.0\Shop.Domain.csproj.CoreCompileInputs.cache
+C:\Users\kamil\Desktop\Programowanie\Asp.net Core\Online Shop project asp.net core web api\Projekt\Shop.UI\Shop.Domain\obj\Debug\net8.0\Shop.Domain.dll
+C:\Users\kamil\Desktop\Programowanie\Asp.net Core\Online Shop project asp.net core web api\Projekt\Shop.UI\Shop.Domain\obj\Debug\net8.0\refint\Shop.Domain.dll
+C:\Users\kamil\Desktop\Programowanie\Asp.net Core\Online Shop project asp.net core web api\Projekt\Shop.UI\Shop.Domain\obj\Debug\net8.0\Shop.Domain.pdb
+C:\Users\kamil\Desktop\Programowanie\Asp.net Core\Online Shop project asp.net core web api\Projekt\Shop.UI\Shop.Domain\obj\Debug\net8.0\ref\Shop.Domain.dll

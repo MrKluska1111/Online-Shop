@@ -1,0 +1,17 @@
+C:\Users\kamil\Desktop\Programowanie\Asp.net Core\Online Shop project asp.net core web api\Projekt\Shop.UI\Shop.Database\bin\Debug\net8.0\Shop.Database.deps.json
+C:\Users\kamil\Desktop\Programowanie\Asp.net Core\Online Shop project asp.net core web api\Projekt\Shop.UI\Shop.Database\bin\Debug\net8.0\Shop.Database.dll
+C:\Users\kamil\Desktop\Programowanie\Asp.net Core\Online Shop project asp.net core web api\Projekt\Shop.UI\Shop.Database\bin\Debug\net8.0\Shop.Database.pdb
+C:\Users\kamil\Desktop\Programowanie\Asp.net Core\Online Shop project asp.net core web api\Projekt\Shop.UI\Shop.Database\bin\Debug\net8.0\Shop.Domain.dll
+C:\Users\kamil\Desktop\Programowanie\Asp.net Core\Online Shop project asp.net core web api\Projekt\Shop.UI\Shop.Database\bin\Debug\net8.0\Shop.Domain.pdb
+C:\Users\kamil\Desktop\Programowanie\Asp.net Core\Online Shop project asp.net core web api\Projekt\Shop.UI\Shop.Database\obj\Debug\net8.0\Shop.Database.csproj.AssemblyReference.cache
+C:\Users\kamil\Desktop\Programowanie\Asp.net Core\Online Shop project asp.net core web api\Projekt\Shop.UI\Shop.Database\obj\Debug\net8.0\Shop.Database.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kamil\Desktop\Programowanie\Asp.net Core\Online Shop project asp.net core web api\Projekt\Shop.UI\Shop.Database\obj\Debug\net8.0\Shop.Database.AssemblyInfoInputs.cache
+C:\Users\kamil\Desktop\Programowanie\Asp.net Core\Online Shop project asp.net core web api\Projekt\Shop.UI\Shop.Database\obj\Debug\net8.0\Shop.Database.AssemblyInfo.cs
+C:\Users\kamil\Desktop\Programowanie\Asp.net Core\Online Shop project asp.net core web api\Projekt\Shop.UI\Shop.Database\obj\Debug\net8.0\Shop.Database.csproj.CoreCompileInputs.cache
+C:\Users\kamil\Desktop\Programowanie\Asp.net Core\Online Shop project asp.net core web api\Projekt\Shop.UI\Shop.Database\obj\Debug\net8.0\Shop.Dat.97331953.Up2Date
+C:\Users\kamil\Desktop\Programowanie\Asp.net Core\Online Shop project asp.net core web api\Projekt\Shop.UI\Shop.Database\obj\Debug\net8.0\Shop.Database.dll
+C:\Users\kamil\Desktop\Programowanie\Asp.net Core\Online Shop project asp.net core web api\Projekt\Shop.UI\Shop.Database\obj\Debug\net8.0\refint\Shop.Database.dll
+C:\Users\kamil\Desktop\Programowanie\Asp.net Core\Online Shop project asp.net core web api\Projekt\Shop.UI\Shop.Database\obj\Debug\net8.0\Shop.Database.pdb
+C:\Users\kamil\Desktop\Programowanie\Asp.net Core\Online Shop project asp.net core web api\Projekt\Shop.UI\Shop.Database\obj\Debug\net8.0\ref\Shop.Database.dll
+C:\Users\kamil\Desktop\Programowanie\Asp.net Core\Online Shop project asp.net core web api\Projekt\Shop.UI\Shop.Database\bin\Debug\net8.0\Shop.Database.runtimeconfig.json
+C:\Users\kamil\Desktop\Programowanie\Asp.net Core\Online Shop project asp.net core web api\Projekt\Shop.UI\Shop.Database\obj\Debug\net8.0\Shop.Database.genruntimeconfig.cache

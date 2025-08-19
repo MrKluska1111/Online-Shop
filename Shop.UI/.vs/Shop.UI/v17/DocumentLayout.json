@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\kamil\\Desktop\\Programowanie\\Asp.net Core\\Online Shop project asp.net core web api\\Projekt\\Shop.UI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{051E53D7-3A75-4D7D-836E-244EBA6303F8}|Shop.UI\\Shop.UI.csproj|c:\\users\\kamil\\desktop\\programowanie\\asp.net core\\online shop project asp.net core web api\\projekt\\shop.ui\\shop.ui\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{051E53D7-3A75-4D7D-836E-244EBA6303F8}|Shop.UI\\Shop.UI.csproj|solutionrelative:shop.ui\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7ABD37A3-A2D3-4E14-8145-1D3272CF1D92}|Shop.Application\\Shop.Application.csproj|c:\\users\\kamil\\desktop\\programowanie\\asp.net core\\online shop project asp.net core web api\\projekt\\shop.ui\\shop.application\\productsadmin\\createproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7ABD37A3-A2D3-4E14-8145-1D3272CF1D92}|Shop.Application\\Shop.Application.csproj|solutionrelative:shop.application\\productsadmin\\createproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{051E53D7-3A75-4D7D-836E-244EBA6303F8}|Shop.UI\\Shop.UI.csproj|c:\\users\\kamil\\desktop\\programowanie\\asp.net core\\online shop project asp.net core web api\\projekt\\shop.ui\\shop.ui\\shop.ui.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{051E53D7-3A75-4D7D-836E-244EBA6303F8}|Shop.UI\\Shop.UI.csproj|solutionrelative:shop.ui\\shop.ui.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CreateProduct.cs",
+              "DocumentMoniker": "C:\\Users\\kamil\\Desktop\\Programowanie\\Asp.net Core\\Online Shop project asp.net core web api\\Projekt\\Shop.UI\\Shop.Application\\ProductsAdmin\\CreateProduct.cs",
+              "RelativeDocumentMoniker": "Shop.Application\\ProductsAdmin\\CreateProduct.cs",
+              "ToolTip": "C:\\Users\\kamil\\Desktop\\Programowanie\\Asp.net Core\\Online Shop project asp.net core web api\\Projekt\\Shop.UI\\Shop.Application\\ProductsAdmin\\CreateProduct.cs",
+              "RelativeToolTip": "Shop.Application\\ProductsAdmin\\CreateProduct.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-19T12:06:22.382Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AdminController.cs",
+              "DocumentMoniker": "C:\\Users\\kamil\\Desktop\\Programowanie\\Asp.net Core\\Online Shop project asp.net core web api\\Projekt\\Shop.UI\\Shop.UI\\Controllers\\AdminController.cs",
+              "RelativeDocumentMoniker": "Shop.UI\\Controllers\\AdminController.cs",
+              "ToolTip": "C:\\Users\\kamil\\Desktop\\Programowanie\\Asp.net Core\\Online Shop project asp.net core web api\\Projekt\\Shop.UI\\Shop.UI\\Controllers\\AdminController.cs",
+              "RelativeToolTip": "Shop.UI\\Controllers\\AdminController.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwB0AAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-19T11:54:34.133Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Shop.UI",
+              "DocumentMoniker": "C:\\Users\\kamil\\Desktop\\Programowanie\\Asp.net Core\\Online Shop project asp.net core web api\\Projekt\\Shop.UI\\Shop.UI\\Shop.UI.csproj",
+              "RelativeDocumentMoniker": "Shop.UI\\Shop.UI.csproj",
+              "ToolTip": "C:\\Users\\kamil\\Desktop\\Programowanie\\Asp.net Core\\Online Shop project asp.net core web api\\Projekt\\Shop.UI\\Shop.UI\\Shop.UI.csproj",
+              "RelativeToolTip": "Shop.UI\\Shop.UI.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-08-19T11:54:08.432Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
