@@ -1,0 +1,32 @@
+﻿@page
+@model Shop.UI.Pages.Admin.IndexModel
+@{
+}
+
+<div id="app">
+
+    <div>
+        <p v-for="(product, index) in products">
+            {{product.id}} - {{product.name}} - {{product.value}}
+            <a v-on:click="editProduct(product.id, index)">Edit</a>
+            <a v-on:click="deleteProduct(product.id, index)">Remove</a>
+        </p>
+    </div>
+
+    <div>
+        <input v-model="productModel.name" />
+        <input v-model="productModel.description" />
+        <input v-model="productModel.value" />
+        <button type="button" v-on:click="getProducts">Get Products</button>
+        <button type="button" v-on:click="createProduct" v-if="!productModel.id">Create Product</button>
+        <button type="button" v-on:click="updateProduct" v-else>Update Product</button>
+    </div>
+    
+
+</div>
+
+@section scripts{
+    <script src="https://unpkg.com/vue@3"></script>
+    <script src="https://cdn.jsdelivr.net/npm/axios/dist/axios.min.js"></script>
+    <script src="/js/admin/main.js?v=1"></script>
+}

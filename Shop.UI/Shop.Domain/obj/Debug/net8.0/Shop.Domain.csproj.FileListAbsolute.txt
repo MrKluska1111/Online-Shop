@@ -9,3 +9,4 @@ C:\Users\kamil\Desktop\Programowanie\Asp.net Core\Online Shop project asp.net co
 C:\Users\kamil\Desktop\Programowanie\Asp.net Core\Online Shop project asp.net core web api\Projekt\Shop.UI\Shop.Domain\obj\Debug\net8.0\refint\Shop.Domain.dll
 C:\Users\kamil\Desktop\Programowanie\Asp.net Core\Online Shop project asp.net core web api\Projekt\Shop.UI\Shop.Domain\obj\Debug\net8.0\Shop.Domain.pdb
 C:\Users\kamil\Desktop\Programowanie\Asp.net Core\Online Shop project asp.net core web api\Projekt\Shop.UI\Shop.Domain\obj\Debug\net8.0\ref\Shop.Domain.dll
+C:\Users\kamil\Desktop\Programowanie\Asp.net Core\Online Shop project asp.net core web api\Projekt\Shop.UI\Shop.Domain\obj\Debug\net8.0\Shop.Domain.sourcelink.json

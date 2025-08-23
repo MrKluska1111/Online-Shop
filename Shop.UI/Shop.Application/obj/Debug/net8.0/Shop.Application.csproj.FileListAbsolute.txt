@@ -15,3 +15,4 @@ C:\Users\kamil\Desktop\Programowanie\Asp.net Core\Online Shop project asp.net co
 C:\Users\kamil\Desktop\Programowanie\Asp.net Core\Online Shop project asp.net core web api\Projekt\Shop.UI\Shop.Application\obj\Debug\net8.0\refint\Shop.Application.dll
 C:\Users\kamil\Desktop\Programowanie\Asp.net Core\Online Shop project asp.net core web api\Projekt\Shop.UI\Shop.Application\obj\Debug\net8.0\Shop.Application.pdb
 C:\Users\kamil\Desktop\Programowanie\Asp.net Core\Online Shop project asp.net core web api\Projekt\Shop.UI\Shop.Application\obj\Debug\net8.0\ref\Shop.Application.dll
+C:\Users\kamil\Desktop\Programowanie\Asp.net Core\Online Shop project asp.net core web api\Projekt\Shop.UI\Shop.Application\obj\Debug\net8.0\Shop.Application.sourcelink.json

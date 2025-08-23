@@ -3,32 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\kamil\\Desktop\\Programowanie\\Asp.net Core\\Online Shop project asp.net core web api\\Projekt\\Shop.UI\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F27B4B1C-39A0-43A5-BAE6-20E1EFDC72A7}|Shop.Database\\Shop.Database.csproj|c:\\users\\kamil\\desktop\\programowanie\\asp.net core\\online shop project asp.net core web api\\projekt\\shop.ui\\shop.database\\shop.database.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{F27B4B1C-39A0-43A5-BAE6-20E1EFDC72A7}|Shop.Database\\Shop.Database.csproj|solutionrelative:shop.database\\shop.database.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{051E53D7-3A75-4D7D-836E-244EBA6303F8}|Shop.UI\\Shop.UI.csproj|c:\\users\\kamil\\desktop\\programowanie\\asp.net core\\online shop project asp.net core web api\\projekt\\shop.ui\\shop.ui\\wwwroot\\js\\admin\\main.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{051E53D7-3A75-4D7D-836E-244EBA6303F8}|Shop.UI\\Shop.UI.csproj|solutionrelative:shop.ui\\wwwroot\\js\\admin\\main.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{051E53D7-3A75-4D7D-836E-244EBA6303F8}|Shop.UI\\Shop.UI.csproj|c:\\users\\kamil\\desktop\\programowanie\\asp.net core\\online shop project asp.net core web api\\projekt\\shop.ui\\shop.ui\\shop.ui.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{051E53D7-3A75-4D7D-836E-244EBA6303F8}|Shop.UI\\Shop.UI.csproj|solutionrelative:shop.ui\\shop.ui.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{051E53D7-3A75-4D7D-836E-244EBA6303F8}|Shop.UI\\Shop.UI.csproj|c:\\users\\kamil\\desktop\\programowanie\\asp.net core\\online shop project asp.net core web api\\projekt\\shop.ui\\shop.ui\\pages\\admin\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{051E53D7-3A75-4D7D-836E-244EBA6303F8}|Shop.UI\\Shop.UI.csproj|solutionrelative:shop.ui\\pages\\admin\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3547442B-F45E-4F51-B6CC-1B7BBB5B390E}|Shop.Domain\\Shop.Domain.csproj|c:\\users\\kamil\\desktop\\programowanie\\asp.net core\\online shop project asp.net core web api\\projekt\\shop.ui\\shop.domain\\models\\orderproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3547442B-F45E-4F51-B6CC-1B7BBB5B390E}|Shop.Domain\\Shop.Domain.csproj|solutionrelative:shop.domain\\models\\orderproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{051E53D7-3A75-4D7D-836E-244EBA6303F8}|Shop.UI\\Shop.UI.csproj|c:\\users\\kamil\\desktop\\programowanie\\asp.net core\\online shop project asp.net core web api\\projekt\\shop.ui\\shop.ui\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{051E53D7-3A75-4D7D-836E-244EBA6303F8}|Shop.UI\\Shop.UI.csproj|solutionrelative:shop.ui\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3547442B-F45E-4F51-B6CC-1B7BBB5B390E}|Shop.Domain\\Shop.Domain.csproj|c:\\users\\kamil\\desktop\\programowanie\\asp.net core\\online shop project asp.net core web api\\projekt\\shop.ui\\shop.domain\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3547442B-F45E-4F51-B6CC-1B7BBB5B390E}|Shop.Domain\\Shop.Domain.csproj|solutionrelative:shop.domain\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3547442B-F45E-4F51-B6CC-1B7BBB5B390E}|Shop.Domain\\Shop.Domain.csproj|c:\\users\\kamil\\desktop\\programowanie\\asp.net core\\online shop project asp.net core web api\\projekt\\shop.ui\\shop.domain\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3547442B-F45E-4F51-B6CC-1B7BBB5B390E}|Shop.Domain\\Shop.Domain.csproj|solutionrelative:shop.domain\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F27B4B1C-39A0-43A5-BAE6-20E1EFDC72A7}|Shop.Database\\Shop.Database.csproj|c:\\users\\kamil\\desktop\\programowanie\\asp.net core\\online shop project asp.net core web api\\projekt\\shop.ui\\shop.database\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F27B4B1C-39A0-43A5-BAE6-20E1EFDC72A7}|Shop.Database\\Shop.Database.csproj|solutionrelative:shop.database\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3547442B-F45E-4F51-B6CC-1B7BBB5B390E}|Shop.Domain\\Shop.Domain.csproj|c:\\users\\kamil\\desktop\\programowanie\\asp.net core\\online shop project asp.net core web api\\projekt\\shop.ui\\shop.domain\\models\\stock.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3547442B-F45E-4F51-B6CC-1B7BBB5B390E}|Shop.Domain\\Shop.Domain.csproj|solutionrelative:shop.domain\\models\\stock.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{051E53D7-3A75-4D7D-836E-244EBA6303F8}|Shop.UI\\Shop.UI.csproj|c:\\users\\kamil\\desktop\\programowanie\\asp.net core\\online shop project asp.net core web api\\projekt\\shop.ui\\shop.ui\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{051E53D7-3A75-4D7D-836E-244EBA6303F8}|Shop.UI\\Shop.UI.csproj|solutionrelative:shop.ui\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,94 +26,57 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\kamil\\Desktop\\Programowanie\\Asp.net Core\\Online Shop project asp.net core web api\\Projekt\\Shop.UI\\Shop.UI\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Shop.UI\\Pages\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\kamil\\Desktop\\Programowanie\\Asp.net Core\\Online Shop project asp.net core web api\\Projekt\\Shop.UI\\Shop.UI\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Shop.UI\\Pages\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-22T11:45:52.467Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Shop.Database",
-              "DocumentMoniker": "C:\\Users\\kamil\\Desktop\\Programowanie\\Asp.net Core\\Online Shop project asp.net core web api\\Projekt\\Shop.UI\\Shop.Database\\Shop.Database.csproj",
-              "RelativeDocumentMoniker": "Shop.Database\\Shop.Database.csproj",
-              "ToolTip": "C:\\Users\\kamil\\Desktop\\Programowanie\\Asp.net Core\\Online Shop project asp.net core web api\\Projekt\\Shop.UI\\Shop.Database\\Shop.Database.csproj",
-              "RelativeToolTip": "Shop.Database\\Shop.Database.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-08-18T16:48:57.806Z",
+              "Title": "main.js",
+              "DocumentMoniker": "C:\\Users\\kamil\\Desktop\\Programowanie\\Asp.net Core\\Online Shop project asp.net core web api\\Projekt\\Shop.UI\\Shop.UI\\wwwroot\\js\\admin\\main.js",
+              "RelativeDocumentMoniker": "Shop.UI\\wwwroot\\js\\admin\\main.js",
+              "ToolTip": "C:\\Users\\kamil\\Desktop\\Programowanie\\Asp.net Core\\Online Shop project asp.net core web api\\Projekt\\Shop.UI\\Shop.UI\\wwwroot\\js\\admin\\main.js",
+              "RelativeToolTip": "Shop.UI\\wwwroot\\js\\admin\\main.js",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAEkAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-08-21T15:54:05.458Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Shop.UI",
-              "DocumentMoniker": "C:\\Users\\kamil\\Desktop\\Programowanie\\Asp.net Core\\Online Shop project asp.net core web api\\Projekt\\Shop.UI\\Shop.UI\\Shop.UI.csproj",
-              "RelativeDocumentMoniker": "Shop.UI\\Shop.UI.csproj",
-              "ToolTip": "C:\\Users\\kamil\\Desktop\\Programowanie\\Asp.net Core\\Online Shop project asp.net core web api\\Projekt\\Shop.UI\\Shop.UI\\Shop.UI.csproj",
-              "RelativeToolTip": "Shop.UI\\Shop.UI.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-08-18T16:48:52.068Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "ApplicationDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\kamil\\Desktop\\Programowanie\\Asp.net Core\\Online Shop project asp.net core web api\\Projekt\\Shop.UI\\Shop.Database\\ApplicationDbContext.cs",
-              "RelativeDocumentMoniker": "Shop.Database\\ApplicationDbContext.cs",
-              "ToolTip": "C:\\Users\\kamil\\Desktop\\Programowanie\\Asp.net Core\\Online Shop project asp.net core web api\\Projekt\\Shop.UI\\Shop.Database\\ApplicationDbContext.cs",
-              "RelativeToolTip": "Shop.Database\\ApplicationDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAA+AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-18T16:03:46.04Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "OrderProduct.cs",
-              "DocumentMoniker": "C:\\Users\\kamil\\Desktop\\Programowanie\\Asp.net Core\\Online Shop project asp.net core web api\\Projekt\\Shop.UI\\Shop.Domain\\Models\\OrderProduct.cs",
-              "RelativeDocumentMoniker": "Shop.Domain\\Models\\OrderProduct.cs",
-              "ToolTip": "C:\\Users\\kamil\\Desktop\\Programowanie\\Asp.net Core\\Online Shop project asp.net core web api\\Projekt\\Shop.UI\\Shop.Domain\\Models\\OrderProduct.cs",
-              "RelativeToolTip": "Shop.Domain\\Models\\OrderProduct.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAoAAAAAAAAAA==",
+              "Title": "AdminController.cs",
+              "DocumentMoniker": "C:\\Users\\kamil\\Desktop\\Programowanie\\Asp.net Core\\Online Shop project asp.net core web api\\Projekt\\Shop.UI\\Shop.UI\\Controllers\\AdminController.cs",
+              "RelativeDocumentMoniker": "Shop.UI\\Controllers\\AdminController.cs",
+              "ToolTip": "C:\\Users\\kamil\\Desktop\\Programowanie\\Asp.net Core\\Online Shop project asp.net core web api\\Projekt\\Shop.UI\\Shop.UI\\Controllers\\AdminController.cs",
+              "RelativeToolTip": "Shop.UI\\Controllers\\AdminController.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwB0AAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-18T16:00:08.682Z",
+              "WhenOpened": "2025-08-21T12:12:16.934Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\kamil\\Desktop\\Programowanie\\Asp.net Core\\Online Shop project asp.net core web api\\Projekt\\Shop.UI\\Shop.UI\\Pages\\Admin\\Index.cshtml",
+              "RelativeDocumentMoniker": "Shop.UI\\Pages\\Admin\\Index.cshtml",
+              "ToolTip": "C:\\Users\\kamil\\Desktop\\Programowanie\\Asp.net Core\\Online Shop project asp.net core web api\\Projekt\\Shop.UI\\Shop.UI\\Pages\\Admin\\Index.cshtml",
+              "RelativeToolTip": "Shop.UI\\Pages\\Admin\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-21T12:05:14.72Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Order.cs",
-              "DocumentMoniker": "C:\\Users\\kamil\\Desktop\\Programowanie\\Asp.net Core\\Online Shop project asp.net core web api\\Projekt\\Shop.UI\\Shop.Domain\\Models\\Order.cs",
-              "RelativeDocumentMoniker": "Shop.Domain\\Models\\Order.cs",
-              "ToolTip": "C:\\Users\\kamil\\Desktop\\Programowanie\\Asp.net Core\\Online Shop project asp.net core web api\\Projekt\\Shop.UI\\Shop.Domain\\Models\\Order.cs",
-              "RelativeToolTip": "Shop.Domain\\Models\\Order.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABAAAABEAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-18T15:57:27.325Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Product.cs",
-              "DocumentMoniker": "C:\\Users\\kamil\\Desktop\\Programowanie\\Asp.net Core\\Online Shop project asp.net core web api\\Projekt\\Shop.UI\\Shop.Domain\\Models\\Product.cs",
-              "RelativeDocumentMoniker": "Shop.Domain\\Models\\Product.cs",
-              "ToolTip": "C:\\Users\\kamil\\Desktop\\Programowanie\\Asp.net Core\\Online Shop project asp.net core web api\\Projekt\\Shop.UI\\Shop.Domain\\Models\\Product.cs",
-              "RelativeToolTip": "Shop.Domain\\Models\\Product.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA8AAABEAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-18T15:55:35.354Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Stock.cs",
-              "DocumentMoniker": "C:\\Users\\kamil\\Desktop\\Programowanie\\Asp.net Core\\Online Shop project asp.net core web api\\Projekt\\Shop.UI\\Shop.Domain\\Models\\Stock.cs",
-              "RelativeDocumentMoniker": "Shop.Domain\\Models\\Stock.cs",
-              "ToolTip": "C:\\Users\\kamil\\Desktop\\Programowanie\\Asp.net Core\\Online Shop project asp.net core web api\\Projekt\\Shop.UI\\Shop.Domain\\Models\\Stock.cs",
-              "RelativeToolTip": "Shop.Domain\\Models\\Stock.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA4AAAAsAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-18T15:52:48.56Z"
             }
           ]
         }

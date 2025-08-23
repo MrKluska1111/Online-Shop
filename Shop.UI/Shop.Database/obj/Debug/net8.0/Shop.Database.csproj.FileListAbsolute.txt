@@ -15,3 +15,4 @@ C:\Users\kamil\Desktop\Programowanie\Asp.net Core\Online Shop project asp.net co
 C:\Users\kamil\Desktop\Programowanie\Asp.net Core\Online Shop project asp.net core web api\Projekt\Shop.UI\Shop.Database\obj\Debug\net8.0\ref\Shop.Database.dll
 C:\Users\kamil\Desktop\Programowanie\Asp.net Core\Online Shop project asp.net core web api\Projekt\Shop.UI\Shop.Database\bin\Debug\net8.0\Shop.Database.runtimeconfig.json
 C:\Users\kamil\Desktop\Programowanie\Asp.net Core\Online Shop project asp.net core web api\Projekt\Shop.UI\Shop.Database\obj\Debug\net8.0\Shop.Database.genruntimeconfig.cache
+C:\Users\kamil\Desktop\Programowanie\Asp.net Core\Online Shop project asp.net core web api\Projekt\Shop.UI\Shop.Database\obj\Debug\net8.0\Shop.Database.sourcelink.json

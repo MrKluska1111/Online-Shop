@@ -180,3 +180,4 @@ C:\Users\kamil\Desktop\Programowanie\Asp.net Core\Online Shop project asp.net co
 C:\Users\kamil\Desktop\Programowanie\Asp.net Core\Online Shop project asp.net core web api\Projekt\Shop.UI\Shop.UI\obj\Debug\net8.0\Shop.UI.genruntimeconfig.cache
 C:\Users\kamil\Desktop\Programowanie\Asp.net Core\Online Shop project asp.net core web api\Projekt\Shop.UI\Shop.UI\obj\Debug\net8.0\ref\Shop.UI.dll
 C:\Users\kamil\Desktop\Programowanie\Asp.net Core\Online Shop project asp.net core web api\Projekt\Shop.UI\Shop.UI\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\kamil\Desktop\Programowanie\Asp.net Core\Online Shop project asp.net core web api\Projekt\Shop.UI\Shop.UI\obj\Debug\net8.0\Shop.UI.sourcelink.json

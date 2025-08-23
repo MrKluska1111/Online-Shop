@@ -1,1 +1,76 @@
-[]
+[
+  {
+    "ContainingType": "Shop.UI.Controllers.AdminController",
+    "Method": "GetProducts",
+    "RelativePath": "Admin/products",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Shop.UI.Controllers.AdminController",
+    "Method": "CreateProduct",
+    "RelativePath": "Admin/products",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "Shop.Application.ProductsAdmin.CreateProduct\u002BRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Shop.UI.Controllers.AdminController",
+    "Method": "UpdateProduct",
+    "RelativePath": "Admin/products",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "Shop.Application.ProductsAdmin.UpdateProduct\u002BRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Shop.UI.Controllers.AdminController",
+    "Method": "GetProduct",
+    "RelativePath": "Admin/products/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Shop.UI.Controllers.AdminController",
+    "Method": "DeleteProduct",
+    "RelativePath": "Admin/products/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]
