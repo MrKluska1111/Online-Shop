@@ -3,30 +3,61 @@
 @{
 }
 
-<div id="app">
+<div id="app" class="container">
+        <div v-if="!editing">
+            <button class="button" v-on:click ="newProduct">Add New Product</button>
+            <table class="table">
+                <thead>
+                    <tr>
+                        <th>Id</th>
+                        <th>Product</th>
+                        <th>Value</th>
+                        <th></th>
+                        <th></th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr v-for="(product, index) in products" :key="product.id">
+                        <td>{{ product.id }}</td>
+                        <td>{{ product.name }}</td>
+                        <td>{{ product.value }}</td>
+                    <td><a href="#" v-on:click="editProduct(product.id, index)">Edit</a></td>
+                    <td><a href="#" v-on:click="deleteProduct(product.id, index)">Remove</a></td>
+                    </tr>
+                </tbody>
+            </table>
+        </div>
 
-    <div>
-        <p v-for="(product, index) in products">
-            {{product.id}} - {{product.name}} - {{product.value}}
-            <a v-on:click="editProduct(product.id, index)">Edit</a>
-            <a v-on:click="deleteProduct(product.id, index)">Remove</a>
-        </p>
-    </div>
+        <div v-else>
+            <div class="field">
+                <label class="label">Product Name</label>
+                <div class="control">
+                    <input class="input" v-model="productModel.name" />
+                </div>
+            </div>
 
-    <div>
-        <input v-model="productModel.name" />
-        <input v-model="productModel.description" />
-        <input v-model="productModel.value" />
-        <button type="button" v-on:click="getProducts">Get Products</button>
-        <button type="button" v-on:click="createProduct" v-if="!productModel.id">Create Product</button>
-        <button type="button" v-on:click="updateProduct" v-else>Update Product</button>
-    </div>
-    
+            <div class="field">
+                <label class="label">Product Description</label>
+                <div class="control">
+                    <input class="input" v-model="productModel.description" />
+                </div>
+            </div>
 
+            <div class="field">
+                <label class="label">Value</label>
+                <div class="control">
+                    <input type="number" class="input" v-model.number="productModel.value" />
+                </div>
+            </div>
+
+        <button class="button is-success" v-on:click="createProduct" v-if="!productModel.id">Create Product</button>
+        <button class="button is-warning" v-on:click="updateProduct" v-else>Update Product</button>
+        <button class="button" v-on:click="cancel">Cancel</button>
+        </div>
 </div>
 
 @section scripts{
-    <script src="https://unpkg.com/vue@3"></script>
-    <script src="https://cdn.jsdelivr.net/npm/axios/dist/axios.min.js"></script>
-    <script src="/js/admin/main.js?v=1"></script>
+
+    <script src="/js/admin/product.js?v=1"></script>
+
 }

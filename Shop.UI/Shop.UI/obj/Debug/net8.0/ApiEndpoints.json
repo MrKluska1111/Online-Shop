@@ -72,5 +72,63 @@
       }
     ],
     "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Shop.UI.Controllers.AdminController",
+    "Method": "GetStock",
+    "RelativePath": "Admin/stocks",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Shop.UI.Controllers.AdminController",
+    "Method": "CreateStock",
+    "RelativePath": "Admin/stocks",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "Shop.Application.StockAdmin.CreateStock\u002BRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Shop.UI.Controllers.AdminController",
+    "Method": "UpdateStock",
+    "RelativePath": "Admin/stocks",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "Shop.Application.StockAdmin.UpdateStock\u002BRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Shop.UI.Controllers.AdminController",
+    "Method": "DeleteStock",
+    "RelativePath": "Admin/stocks/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
   }
 ]

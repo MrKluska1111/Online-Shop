@@ -1,0 +1,58 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>@ViewData["Title"] - Shop.UI</title>
+    <link href="~/lib/bulma/css/bulma.css" rel="stylesheet" />
+    <link href="~/lib/bulma/css/bulma.min.css" rel="stylesheet" />
+    <a href="~/lib/bulma/css/bulma.css.map">~/lib/bulma/css/bulma.css.map</a>
+   
+    <link rel="stylesheet" href="~/Shop.UI.styles.css" asp-append-version="true" />
+</head>
+<body>
+    <header>
+        <h3 class="has-text-centered">Admin Panel</h3>
+        <a class="nav-link text-dark" asp-page="/Index">Home</a>
+    </header>
+
+    <div class="container">
+        <div class="columns">
+            <div class="column is-3">
+                <div class="menu">
+                    <p class="menu-label">Admin menu</p>
+                    <ul class="menu-list">
+                        <li><a asp-page="/Admin/Index">Products</a></li>
+                        <li><a asp-page="/Admin/Orders">Orders</a></li>
+                        <li><a asp-page="/Admin/Stock">Stock</a></li>
+                    </ul>
+
+                    <p class="menu-label"></p>
+                    <ul class="menu-list">
+                        <li><a asp-page="/Index">Back to Main</a></li>
+                    </ul>
+
+                </div>
+            </div>
+    </div>
+
+
+        <div class="column is-9">
+            @RenderBody()
+        </div>
+    </div>
+
+
+
+    <!--<footer class="border-top footer text-muted">
+        <div class="container">
+            &copy; 2025 - Shop.UI - <a asp-area="" asp-page="/Privacy">Privacy</a>
+        </div>
+    </footer> -->
+
+    <script src="https://unpkg.com/vue@3"></script>
+    <script src="https://cdn.jsdelivr.net/npm/axios/dist/axios.min.js"></script>
+
+    @await RenderSectionAsync("scripts", required: false)
+</body>
+</html>
