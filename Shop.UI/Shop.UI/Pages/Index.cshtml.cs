@@ -19,11 +19,11 @@ namespace Shop.UI.Pages
         }
 
         [BindProperty]
-        public IEnumerable<Application.ProductsAdmin.GetProducts.ProductViewModel> Products { get; set; }
+        public IEnumerable<Application.Products.GetProducts.ProductViewModel> Products { get; set; }
 
         public void OnGet()
         {
-            Products = new Application.ProductsAdmin.GetProducts(_context).Do();
+            Products = new Application.Products.GetProducts(_context).Do();
         }
 
     }

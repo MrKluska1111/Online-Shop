@@ -14,6 +14,12 @@ builder.Services.AddDbContext<ApplicationDbContext>(options =>
         b => b.MigrationsAssembly("Shop.Database") // <--- tu okreœlasz, gdzie maj¹ byæ migracje
     ));
 
+builder.Services.AddSession(options =>
+{
+    options.Cookie.Name = "Cart";
+    options.Cookie.MaxAge = TimeSpan.FromDays(365);
+});
+
 var app = builder.Build();
 
 // Configure the HTTP request pipeline.
@@ -33,5 +39,7 @@ app.UseAuthorization();
 
 app.MapRazorPages();
 app.MapControllers();
+
+app.UseSession();
 
 app.Run();

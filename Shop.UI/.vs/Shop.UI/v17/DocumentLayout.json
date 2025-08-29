@@ -1,88 +1,12 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\kamil\\Desktop\\Programowanie\\Asp.net Core\\Online Shop project asp.net core web api\\Projekt\\Shop.UI\\",
-  "Documents": [
-    {
-      "AbsoluteMoniker": "D:0:0:{051E53D7-3A75-4D7D-836E-244EBA6303F8}|Shop.UI\\Shop.UI.csproj|c:\\users\\kamil\\desktop\\programowanie\\asp.net core\\online shop project asp.net core web api\\projekt\\shop.ui\\shop.ui\\wwwroot\\js\\admin\\stock.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
-      "RelativeMoniker": "D:0:0:{051E53D7-3A75-4D7D-836E-244EBA6303F8}|Shop.UI\\Shop.UI.csproj|solutionrelative:shop.ui\\wwwroot\\js\\admin\\stock.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{051E53D7-3A75-4D7D-836E-244EBA6303F8}|Shop.UI\\Shop.UI.csproj|c:\\users\\kamil\\desktop\\programowanie\\asp.net core\\online shop project asp.net core web api\\projekt\\shop.ui\\shop.ui\\pages\\admin\\stock.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{051E53D7-3A75-4D7D-836E-244EBA6303F8}|Shop.UI\\Shop.UI.csproj|solutionrelative:shop.ui\\pages\\admin\\stock.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{051E53D7-3A75-4D7D-836E-244EBA6303F8}|Shop.UI\\Shop.UI.csproj|c:\\users\\kamil\\desktop\\programowanie\\asp.net core\\online shop project asp.net core web api\\projekt\\shop.ui\\shop.ui\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{051E53D7-3A75-4D7D-836E-244EBA6303F8}|Shop.UI\\Shop.UI.csproj|solutionrelative:shop.ui\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7ABD37A3-A2D3-4E14-8145-1D3272CF1D92}|Shop.Application\\Shop.Application.csproj|c:\\users\\kamil\\desktop\\programowanie\\asp.net core\\online shop project asp.net core web api\\projekt\\shop.ui\\shop.application\\stockadmin\\createstock.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7ABD37A3-A2D3-4E14-8145-1D3272CF1D92}|Shop.Application\\Shop.Application.csproj|solutionrelative:shop.application\\stockadmin\\createstock.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    }
-  ],
+  "Documents": [],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": [
-        {
-          "DockedWidth": 200,
-          "SelectedChildIndex": 2,
-          "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "CreateStock.cs",
-              "DocumentMoniker": "C:\\Users\\kamil\\Desktop\\Programowanie\\Asp.net Core\\Online Shop project asp.net core web api\\Projekt\\Shop.UI\\Shop.Application\\StockAdmin\\CreateStock.cs",
-              "RelativeDocumentMoniker": "Shop.Application\\StockAdmin\\CreateStock.cs",
-              "ToolTip": "C:\\Users\\kamil\\Desktop\\Programowanie\\Asp.net Core\\Online Shop project asp.net core web api\\Projekt\\Shop.UI\\Shop.Application\\StockAdmin\\CreateStock.cs",
-              "RelativeToolTip": "Shop.Application\\StockAdmin\\CreateStock.cs",
-              "ViewState": "AgIAABAAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-27T15:55:13.362Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "AdminController.cs",
-              "DocumentMoniker": "C:\\Users\\kamil\\Desktop\\Programowanie\\Asp.net Core\\Online Shop project asp.net core web api\\Projekt\\Shop.UI\\Shop.UI\\Controllers\\AdminController.cs",
-              "RelativeDocumentMoniker": "Shop.UI\\Controllers\\AdminController.cs",
-              "ToolTip": "C:\\Users\\kamil\\Desktop\\Programowanie\\Asp.net Core\\Online Shop project asp.net core web api\\Projekt\\Shop.UI\\Shop.UI\\Controllers\\AdminController.cs",
-              "RelativeToolTip": "Shop.UI\\Controllers\\AdminController.cs",
-              "ViewState": "AgIAAB4AAAAAAAAAAAAkwC0AAABLAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-26T15:52:34.418Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "stock.js",
-              "DocumentMoniker": "C:\\Users\\kamil\\Desktop\\Programowanie\\Asp.net Core\\Online Shop project asp.net core web api\\Projekt\\Shop.UI\\Shop.UI\\wwwroot\\js\\admin\\stock.js",
-              "RelativeDocumentMoniker": "Shop.UI\\wwwroot\\js\\admin\\stock.js",
-              "ToolTip": "C:\\Users\\kamil\\Desktop\\Programowanie\\Asp.net Core\\Online Shop project asp.net core web api\\Projekt\\Shop.UI\\Shop.UI\\wwwroot\\js\\admin\\stock.js",
-              "RelativeToolTip": "Shop.UI\\wwwroot\\js\\admin\\stock.js",
-              "ViewState": "AgIAAC0AAAAAAAAAAAAAACcAAAAOAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2025-08-26T12:08:59.557Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Stock.cshtml",
-              "DocumentMoniker": "C:\\Users\\kamil\\Desktop\\Programowanie\\Asp.net Core\\Online Shop project asp.net core web api\\Projekt\\Shop.UI\\Shop.UI\\Pages\\Admin\\Stock.cshtml",
-              "RelativeDocumentMoniker": "Shop.UI\\Pages\\Admin\\Stock.cshtml",
-              "ToolTip": "C:\\Users\\kamil\\Desktop\\Programowanie\\Asp.net Core\\Online Shop project asp.net core web api\\Projekt\\Shop.UI\\Shop.UI\\Pages\\Admin\\Stock.cshtml",
-              "RelativeToolTip": "Shop.UI\\Pages\\Admin\\Stock.cshtml",
-              "ViewState": "AgIAABUAAAAAAAAAAAAAABUAAABeAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-08-24T11:10:52.958Z",
-              "EditorCaption": ""
-            }
-          ]
-        }
-      ]
+      "DocumentGroups": []
     }
   ]
 }
